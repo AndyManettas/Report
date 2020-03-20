@@ -1,0 +1,23 @@
+﻿RespondentNo,Gender,DomInt,Faculty,Units,StudyHours,SleepHours,ActivityHours,Motivation,Health,ATAR,Ranks
+18,Male,Domestic,Science,4,5 - 10,8 - 9,0,4,3,99.6,Very High
+7,Female,Domestic,Other: IT,4,10 - 20,6 - 8,> 30,4,3,99.3,Very High
+26,Male,Domestic,Engineering/Science,5,5 - 10,6 - 8,5 - 10,4,4,98.7,Very High
+16,Female,Domestic,Science,4,10 - 20,6 - 8,10 - 20,4,2,98.1,Very High
+28,Female,Domestic,Medicine and Health,4,5 - 10,6 - 8,5 - 10,4,3,97.7,Very High
+2,Male,Domestic,Science,4,< 5,< 6,> 30,3,5,96.4,Very High
+33,Female,Domestic,Engineering/Science,5,5 - 10,6 - 8,5 - 10,3,3,95.9,Very High
+15,Female,Domestic,Arts and Social Sciences,4,5 - 10,6 - 8,1 - 5,4,3,95.4,Very High
+17,Female,Domestic,Science,4,20 - 30,6 - 8,1 - 5,4,3,93.7,High
+3,Female,Domestic,Other: Law,4,20 - 30,6 - 8,10 - 20,4,3,93.5,High
+13,Female,Domestic,Medicine and Health,4,10 - 20,6 - 8,0,5,2,92,High
+10,Female,Domestic,Arts and Social Sciences,4,10 - 20,8 - 9,0,4,3,91,High
+11,Female,International,Medicine and Health,6,20 - 30,< 6,5 - 10,4,4,91,High
+24,Female,Domestic,Science,3,5 - 10,6 - 8,10 - 20,4,3,90.7,High
+9,Female,Domestic,Arts and Social Sciences/Buisness,6,5 - 10,< 6,20 - 30,3,2,90,High
+22,Female,Domestic,Arts and Social Sciences,4,5 - 10,6 - 8,1 - 5,4,4,90,High
+32,Male,Domestic,Science,5,5 - 10,8 - 9,20 - 30,5,5,90,High
+21,Female,Domestic,Medicine and Health,4,30 - 40,6 - 8,0,4,3,88,High
+1,Female,Domestic,Science,4,10 - 20,6 - 8,10 - 20,4,4,84.15,High
+5,Female,Domestic,Medicine and Health,4,5 - 10,6 - 8,20 - 30,2,2,82,High
+6,Male,Domestic,Other: Security Studies,4,5 - 10,6 - 8,5 - 10,3,3,78.5,Moderate
+19,Female,Domestic,Buisness/Science,6,30 - 40,< 6,20 - 30,3,4,68,Moderate

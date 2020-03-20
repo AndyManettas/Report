@@ -1,0 +1,37 @@
+Respondent,Gender,Domestic/International,Studying,Units,StudyHours,SleepHours,ActivityHours,Motivation ,Health,AcademicAchievement ,Ranks
+1,Female,Domestic ,Science,4,10 - 20,6 - 8,10 - 20,4,4,ATAR: 84.15,High
+2,Male ,Domestic,Science ,4,<5,<6,>30,3,5,ATAR: 96.4,Very high
+3,Female,Domestic,Other: Law,4,20 - 30,6 - 8,10 - 20,4,3,ATAR: 93.5,High
+4,Male ,Domestic,Science,4,30 - 40,6 - 8,0,4,3,WAM: 87.1,High
+5,Female,Domestic,Medicine and Health,4,5 - 10,6 - 8,20 - 30,2,2,ATAR: 82.0,High
+6,Male ,Domestic,Other: Security Studies,4,5 - 10,6 - 8,5 -10,3,3,ATAR: 78.5,Moderate
+7,Female,Domestic,Other: IT,4,10 - 20,6 - 8,>30,4,3,"ATAR: 99.3, WAM:HD",Very high
+8,Male ,International,Buisness/Science,4,>40,>9,>30,1,1,ATAR: Redacted/WAM: Redacted,-
+9,Female,Domestic,Arts and Social Sciences/Buisness,6,5 - 10,<6,20 - 30,3,2,ATAR: 90.0,High
+10,Female,Domestic,Arts and Social Sciences,4,10 - 20,8 - 9,0,4,3,ATAR: 91.0,High
+11,Female,International,Medicine and Health,6,20 - 30,<6,5 - 10,4,4,ATAR: 91.0,High
+12,Male ,Domestic,Science,1,10 - 20,<6,1 - 5,4,2,WAM: 52.0,Below Average
+13,Female,Domestic,Medicine and Health,4,10 - 20,6 - 8 ,0,5,2,ATAR: 92.0,High
+14,Female,Domestic,Science,6,>40,6 - 8,5 - 10,3,2,WAM: 83.5,High
+15,Female,Domestic,Arts and Social Sciences,4,5 - 10,6 - 8,1 - 5,4,3,ATAR: 95.4,Very high
+16,Female,Domestic,Science,4,10 - 20,6 - 8,10 - 20,4,2,"ATAR: 98.1, WAM:90",Very high
+17,Female,Domestic,Science,4,20 - 30,6 - 8,1 - 5,4,3,ATAR: 93.7,High
+18,Male ,Domestic,Science,4,5 - 10,8 - 9,0,4,3,ATAR: 99.6,Very high
+19,Female,Domestic,Buisness/Science,6,30 - 40,<6,20 - 30,3,4,ATAR: 68.0,Moderate
+20,Female,Domestic,Science,6,30 - 40,6 - 8,10 - 20,3,3,WAM: 83.5,High
+21,Female,Domestic,Medicine and Health,4,30 - 40,6 - 8,0,4,3,ATAR: 88.0,High
+22,Female,Domestic,Arts and Social Sciences,4,5 - 10,6 - 8,1 - 5,4,4,ATAR: 90.0,High
+23,Female,Domestic,Science,4,20 - 30,6 - 8,10 - 20,3,3,WAM: 60.0,Below Average
+24,Female,Domestic,Science,3,5 - 10,6 - 8,10 - 20,4,3,ATAR: 90.7,High
+25,Male ,Domestic,Science,4,5 - 10,6 - 8,10 - 20,4,4,ATAR Equivalent: 40 IB,Very high
+26,Male ,Domestic,Engineering/Science,5,5 -10,6 - 8,5 - 10,4,4,ATAR: 98.7,Very high
+27,Male ,Domestic,Arts and Social Sciences/Engineering,4,10 -20,6 - 8,5 - 10,3,3,WAM: 85.0,Very high
+28,Female,Domestic,Medicine and Health,4,5 -10,6 - 8,5 - 10,4,3,ATAR: 97.7,Very high
+29,Female,Domestic,Other: Design Computing,2,5 -10,<6,5 - 10,4,2,WAM: 71.0,Moderate
+30,Female,Domestic,Other: Law,5,20 - 30,8 - 9,5 - 10,4,4,WAM: 76.0,High
+31,Female,International,Science,4,20 - 30,8 - 9,0,5,4,ATAR Equivalent: 29 IB,Moderate
+32,Male ,Domestic,Science,5,5 - 10,8 - 9,20 - 30,5,5,ATAR: 90,High
+33,Female,Domestic,Engineering/Science,5,5 - 10,6 - 8,5 - 10,3,3,ATAR: 95.90,Very high
+34,Female,Domestic,Arts and Social Sciences,3,10 - 20,6 - 8,5 - 10,3,3,WAM: Low 60s,Below Average
+35,Female,International,Buisness,4,10 - 20,8 - 9,1 - 5,4,2,WAM: 5,
+36,Female,Domestic,Buisness/Science,5,20 - 30,6 - 8,5 - 10,1,2,ATAR: 85.15,High
